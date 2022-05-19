@@ -35,15 +35,19 @@ h1{
 }
 .slogan{
     font-family:cursive;
+    font-size: 15px;
     /* font-size: 20px; */
+    /* font-weight: 500; */
     
 }
 h4{
     font-family:cursive;
     margin-bottom: 15px;
+    font-size: 20px;
 }
 h2{
     font-family:cursive;
+    font-size:30px;
 }
 .alltask {
     /* height: vh; */
